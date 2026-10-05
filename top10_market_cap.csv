@@ -1,0 +1,235 @@
+company,year,market_cap_billion_usd
+NVIDIA,1999,0.96
+NVIDIA,2000,2.22
+NVIDIA,2001,6.45
+NVIDIA,2002,1.21
+NVIDIA,2003,2.51
+NVIDIA,2004,3.92
+NVIDIA,2005,6.26
+NVIDIA,2006,13.16
+NVIDIA,2007,18.9
+NVIDIA,2008,4.33
+NVIDIA,2009,10.37
+NVIDIA,2010,8.95
+NVIDIA,2011,8.46
+NVIDIA,2012,7.66
+NVIDIA,2013,9.11
+NVIDIA,2014,10.9
+NVIDIA,2015,17.73
+NVIDIA,2016,57.53
+NVIDIA,2017,117.26
+NVIDIA,2018,81.44
+NVIDIA,2019,144.0
+NVIDIA,2020,323.24
+NVIDIA,2021,735.28
+NVIDIA,2022,364.18
+NVIDIA,2023,1223.19
+NVIDIA,2024,3288.76
+NVIDIA,2025,4638.83
+Microsoft,1996,99.42
+Microsoft,1997,157.37
+Microsoft,1998,348.11
+Microsoft,1999,604.41
+Microsoft,2000,230.8
+Microsoft,2001,358.06
+Microsoft,2002,276.63
+Microsoft,2003,295.29
+Microsoft,2004,290.72
+Microsoft,2005,271.54
+Microsoft,2006,291.94
+Microsoft,2007,332.11
+Microsoft,2008,172.93
+Microsoft,2009,268.56
+Microsoft,2010,234.53
+Microsoft,2011,218.38
+Microsoft,2012,223.67
+Microsoft,2013,310.5
+Microsoft,2014,381.73
+Microsoft,2015,439.68
+Microsoft,2016,483.16
+Microsoft,2017,659.91
+Microsoft,2018,780.36
+Microsoft,2019,1200.25
+Microsoft,2020,1681.61
+Microsoft,2021,2522.4
+Microsoft,2022,1787.73
+Microsoft,2023,2794.83
+Microsoft,2024,3200.94
+Microsoft,2025,3625.23
+Apple,1996,2.6
+Apple,1997,1.68
+Apple,1998,5.54
+Apple,1999,16.58
+Apple,2000,5.14
+Apple,2001,7.72
+Apple,2002,5.16
+Apple,2003,7.88
+Apple,2004,26.05
+Apple,2005,60.79
+Apple,2006,72.98
+Apple,2007,174.04
+Apple,2008,76.0
+Apple,2009,190.98
+Apple,2010,297.09
+Apple,2011,377.52
+Apple,2012,499.7
+Apple,2013,500.74
+Apple,2014,643.12
+Apple,2015,583.61
+Apple,2016,608.96
+Apple,2017,860.88
+Apple,2018,746.08
+Apple,2019,1287.64
+Apple,2020,2255.97
+Apple,2021,2901.64
+Apple,2022,2066.94
+Apple,2023,2994.37
+Apple,2024,3766.5
+Apple,2025,3997.08
+Alphabet,2014,359.5
+Alphabet,2015,528.17
+Alphabet,2016,539.07
+Alphabet,2017,729.46
+Alphabet,2018,723.56
+Alphabet,2019,921.14
+Alphabet,2020,1185.28
+Alphabet,2021,1917.1
+Alphabet,2022,1145.02
+Alphabet,2023,1756.76
+Alphabet,2024,2365.35
+Alphabet,2025,3802.14
+Amazon,1997,1.44
+Amazon,1998,17.05
+Amazon,1999,26.27
+Amazon,2000,5.56
+Amazon,2001,4.04
+Amazon,2002,7.33
+Amazon,2003,21.22
+Amazon,2004,18.15
+Amazon,2005,19.61
+Amazon,2006,16.34
+Amazon,2007,38.54
+Amazon,2008,21.99
+Amazon,2009,59.73
+Amazon,2010,81.18
+Amazon,2011,78.72
+Amazon,2012,113.9
+Amazon,2013,183.04
+Amazon,2014,144.31
+Amazon,2015,318.34
+Amazon,2016,356.31
+Amazon,2017,563.54
+Amazon,2018,737.47
+Amazon,2019,920.22
+Amazon,2020,1634.17
+Amazon,2021,1691.0
+Amazon,2022,856.94
+Amazon,2023,1570.15
+Amazon,2024,2352.73
+Amazon,2025,2485.69
+Meta,2012,63.14
+Meta,2013,139.19
+Meta,2014,216.74
+Meta,2015,296.61
+Meta,2016,331.59
+Meta,2017,512.76
+Meta,2018,374.13
+Meta,2019,585.37
+Meta,2020,778.23
+Meta,2021,921.94
+Meta,2022,319.89
+Meta,2023,909.63
+Meta,2024,1514.21
+Meta,2025,1671.84
+Broadcom,2009,4.31
+Broadcom,2010,6.86
+Broadcom,2011,7.05
+Broadcom,2012,7.78
+Broadcom,2013,13.16
+Broadcom,2014,25.68
+Broadcom,2015,40.13
+Broadcom,2016,70.53
+Broadcom,2017,105.17
+Broadcom,2018,103.56
+Broadcom,2019,125.71
+Broadcom,2020,178.08
+Broadcom,2021,274.73
+Broadcom,2022,233.65
+Broadcom,2023,461.01
+Broadcom,2024,1133.17
+Broadcom,2025,1669.54
+Tesla,2010,2.53
+Tesla,2011,2.98
+Tesla,2012,3.87
+Tesla,2013,18.52
+Tesla,2014,27.95
+Tesla,2015,31.54
+Tesla,2016,34.42
+Tesla,2017,52.33
+Tesla,2018,57.44
+Tesla,2019,75.72
+Tesla,2020,668.91
+Tesla,2021,1061.29
+Tesla,2022,388.97
+Tesla,2023,789.9
+Tesla,2024,1385.65
+Tesla,2025,1580.4
+Berkshire Hathaway,1996,42.0
+Berkshire Hathaway,1997,56.78
+Berkshire Hathaway,1998,90.93
+Berkshire Hathaway,1999,85.09
+Berkshire Hathaway,2000,108.26
+Berkshire Hathaway,2001,115.56
+Berkshire Hathaway,2002,111.63
+Berkshire Hathaway,2003,129.51
+Berkshire Hathaway,2004,135.31
+Berkshire Hathaway,2005,136.38
+Berkshire Hathaway,2006,169.65
+Berkshire Hathaway,2007,219.38
+Berkshire Hathaway,2008,149.57
+Berkshire Hathaway,2009,153.63
+Berkshire Hathaway,2010,198.32
+Berkshire Hathaway,2011,189.22
+Berkshire Hathaway,2012,220.62
+Berkshire Hathaway,2013,292.41
+Berkshire Hathaway,2014,370.66
+Berkshire Hathaway,2015,325.28
+Berkshire Hathaway,2016,401.64
+Berkshire Hathaway,2017,489.25
+Berkshire Hathaway,2018,502.37
+Berkshire Hathaway,2019,551.97
+Berkshire Hathaway,2020,543.68
+Berkshire Hathaway,2021,669.12
+Berkshire Hathaway,2022,681.78
+Berkshire Hathaway,2023,777.46
+Berkshire Hathaway,2024,983.87
+Berkshire Hathaway,2025,1075.0
+TSMC,1997,14.85
+TSMC,1998,17.17
+TSMC,1999,69.04
+TSMC,2000,40.32
+TSMC,2001,57.8
+TSMC,2002,26.26
+TSMC,2003,41.51
+TSMC,2004,39.48
+TSMC,2005,49.01
+TSMC,2006,56.46
+TSMC,2007,51.05
+TSMC,2008,40.49
+TSMC,2009,52.22
+TSMC,2010,63.56
+TSMC,2011,65.31
+TSMC,2012,86.83
+TSMC,2013,91.39
+TSMC,2014,115.31
+TSMC,2015,109.65
+TSMC,2016,145.71
+TSMC,2017,199.42
+TSMC,2018,191.2
+TSMC,2019,286.58
+TSMC,2020,488.13
+TSMC,2021,575.94
+TSMC,2022,386.31
+TSMC,2023,539.39
+TSMC,2024,1045.76
+TSMC,2025,1570.68
